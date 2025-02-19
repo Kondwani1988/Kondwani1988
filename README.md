@@ -14,7 +14,7 @@
 ## Projects 
 - In construction process
 
-## Certifications
+### Certifications
 [[Front-End Developer](https://hyperskill.org/certificates/47c4ef88-aa33-440d-a14c-0dff30d1ab29.pdf)]
 [[Introduction to Front-End](https://hyperskill.org/certificates/ce63eec9-acc9-4b7a-8745-28a280408273.pdf)]
 ## Connect with Me 
